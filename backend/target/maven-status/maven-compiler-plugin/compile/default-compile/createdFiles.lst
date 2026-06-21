@@ -1,0 +1,16 @@
+com\foodieexpress\config\CorsConfig.class
+com\foodieexpress\controller\UserController.class
+com\foodieexpress\repository\FoodRepository.class
+com\foodieexpress\controller\OrderController.class
+com\foodieexpress\model\Food.class
+com\foodieexpress\model\User.class
+com\foodieexpress\model\Order.class
+com\foodieexpress\repository\OrderItemRepository.class
+com\foodieexpress\repository\UserRepository.class
+com\foodieexpress\service\SmartFoodService.class
+com\foodieexpress\config\FoodSeeder.class
+com\foodieexpress\model\OrderItem.class
+com\foodieexpress\repository\OrderRepository.class
+com\foodieexpress\FoodieExpressApplication.class
+com\foodieexpress\controller\FoodController.class
+com\foodieexpress\controller\DashboardController.class
